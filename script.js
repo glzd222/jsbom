@@ -12,3 +12,5 @@ const pminute =document.querySelector(".pmiute")
 const psecond =document.querySelector(".psecond")
 const button =document.querySelector(".button");
 
+button.addEventListener("click", )
+
